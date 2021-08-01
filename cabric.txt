@@ -1,0 +1,6 @@
+https://fabricmc.net/wiki/player:tutorials:java:windows
+https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot
+https://mcsm.suwings.top/
+https://www.java.com/en/download/manual.jsp
+https://fabricmc.net/
+https://mcsm.suwings.top/
