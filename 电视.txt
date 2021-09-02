@@ -1,0 +1,341 @@
+按类别分类的播放列表
+类别	频道	播放列表
+汽车	21	https://iptv-org.github.io/iptv/categories/auto.m3u
+动画片	24	https://iptv-org.github.io/iptv/categories/animation.m3u
+商业	65	https://iptv-org.github.io/iptv/categories/business.m3u
+经典的	70	https://iptv-org.github.io/iptv/categories/classic.m3u
+喜剧	87	https://iptv-org.github.io/iptv/categories/comedy.m3u
+烹饪	47	https://iptv-org.github.io/iptv/categories/cooking.m3u
+文化	14	https://iptv-org.github.io/iptv/categories/culture.m3u
+记录	58	https://iptv-org.github.io/iptv/categories/documentary.m3u
+教育	18	https://iptv-org.github.io/iptv/categories/education.m3u
+娱乐	224	https://iptv-org.github.io/iptv/categories/entertainment.m3u
+家庭	51	https://iptv-org.github.io/iptv/categories/family.m3u
+一般的	312	https://iptv-org.github.io/iptv/categories/general.m3u
+孩子们	205	https://iptv-org.github.io/iptv/categories/kids.m3u
+立法	62	https://iptv-org.github.io/iptv/categories/legislative.m3u
+生活方式	86	https://iptv-org.github.io/iptv/categories/lifestyle.m3u
+当地的	531	https://iptv-org.github.io/iptv/categories/local.m3u
+电影	286	https://iptv-org.github.io/iptv/categories/movies.m3u
+音乐	395	https://iptv-org.github.io/iptv/categories/music.m3u
+消息	458	https://iptv-org.github.io/iptv/categories/news.m3u
+户外的	39	https://iptv-org.github.io/iptv/categories/outdoor.m3u
+放松	19	https://iptv-org.github.io/iptv/categories/relax.m3u
+宗教的	267	https://iptv-org.github.io/iptv/categories/religious.m3u
+系列	234	https://iptv-org.github.io/iptv/categories/series.m3u
+科学	15	https://iptv-org.github.io/iptv/categories/science.m3u
+店铺	46	https://iptv-org.github.io/iptv/categories/shop.m3u
+运动的	243	https://iptv-org.github.io/iptv/categories/sports.m3u
+旅行	21	https://iptv-org.github.io/iptv/categories/travel.m3u
+天气	16	https://iptv-org.github.io/iptv/categories/weather.m3u
+XXX	39	https://iptv-org.github.io/iptv/categories/xxx.m3u
+其他	4283	https://iptv-org.github.io/iptv/categories/other.m3u
+语	频道	播放列表
+阿寒	2	https://iptv-org.github.io/iptv/languages/aka.m3u
+阿尔巴尼亚语	31	https://iptv-org.github.io/iptv/languages/sqi.m3u
+阿姆哈拉语	1	https://iptv-org.github.io/iptv/languages/amh.m3u
+阿拉伯	354	https://iptv-org.github.io/iptv/languages/ara.m3u
+亚美尼亚语	25	https://iptv-org.github.io/iptv/languages/hye.m3u
+亚述新亚拉姆语	1	https://iptv-org.github.io/iptv/languages/aii.m3u
+阿塞拜疆语	10	https://iptv-org.github.io/iptv/languages/aze.m3u
+巴什基尔	3	https://iptv-org.github.io/iptv/languages/bak.m3u
+孟加拉	4	https://iptv-org.github.io/iptv/languages/ben.m3u
+博杰普里	2	https://iptv-org.github.io/iptv/languages/bho.m3u
+波斯尼亚语	10	https://iptv-org.github.io/iptv/languages/bos.m3u
+保加利亚语	7	https://iptv-org.github.io/iptv/languages/bul.m3u
+缅甸语	0	https://iptv-org.github.io/iptv/languages/mya.m3u
+加泰罗尼亚语	14	https://iptv-org.github.io/iptv/languages/cat.m3u
+中国人	597	https://iptv-org.github.io/iptv/languages/zho.m3u
+克罗地亚语	10	https://iptv-org.github.io/iptv/languages/hrv.m3u
+捷克语	18	https://iptv-org.github.io/iptv/languages/ces.m3u
+丹麦语	4	https://iptv-org.github.io/iptv/languages/dan.m3u
+荷兰语	54	https://iptv-org.github.io/iptv/languages/nld.m3u
+英语	2252	https://iptv-org.github.io/iptv/languages/eng.m3u
+爱沙尼亚语	3	https://iptv-org.github.io/iptv/languages/est.m3u
+法罗语	1	https://iptv-org.github.io/iptv/languages/fao.m3u
+芬兰	1	https://iptv-org.github.io/iptv/languages/fin.m3u
+法语	169	https://iptv-org.github.io/iptv/languages/fra.m3u
+加利西亚语	7	https://iptv-org.github.io/iptv/languages/glg.m3u
+格鲁吉亚语	9	https://iptv-org.github.io/iptv/languages/kat.m3u
+德语	189	https://iptv-org.github.io/iptv/languages/deu.m3u
+希伯来语	11	https://iptv-org.github.io/iptv/languages/heb.m3u
+印地语	107	https://iptv-org.github.io/iptv/languages/hin.m3u
+匈牙利	14	https://iptv-org.github.io/iptv/languages/hun.m3u
+冰岛的	2	https://iptv-org.github.io/iptv/languages/isl.m3u
+印度尼西亚	71	https://iptv-org.github.io/iptv/languages/ind.m3u
+因纽特人	1	https://iptv-org.github.io/iptv/languages/iku.m3u
+意大利语	128	https://iptv-org.github.io/iptv/languages/ita.m3u
+日本人	24	https://iptv-org.github.io/iptv/languages/jpn.m3u
+爪哇语	4	https://iptv-org.github.io/iptv/languages/jav.m3u
+卡纳达语	8	https://iptv-org.github.io/iptv/languages/kan.m3u
+哈萨克语	13	https://iptv-org.github.io/iptv/languages/kaz.m3u
+高棉语	4	https://iptv-org.github.io/iptv/languages/khm.m3u
+基尼亚卢旺达语	3	https://iptv-org.github.io/iptv/languages/kin.m3u
+韩国人	36	https://iptv-org.github.io/iptv/languages/kor.m3u
+库尔德	27	https://iptv-org.github.io/iptv/languages/kur.m3u
+吉尔吉斯语	1	https://iptv-org.github.io/iptv/languages/kir.m3u
+老挝语	3	https://iptv-org.github.io/iptv/languages/lao.m3u
+拉脱维亚语	3	https://iptv-org.github.io/iptv/languages/lav.m3u
+立陶宛语	2	https://iptv-org.github.io/iptv/languages/lit.m3u
+卢森堡语	3	https://iptv-org.github.io/iptv/languages/ltz.m3u
+马其顿语	4	https://iptv-org.github.io/iptv/languages/mkd.m3u
+马来语（宏语言）	7	https://iptv-org.github.io/iptv/languages/msa.m3u
+马拉雅拉姆语	65	https://iptv-org.github.io/iptv/languages/mal.m3u
+马耳他语	3	https://iptv-org.github.io/iptv/languages/mlt.m3u
+普通话	76	https://iptv-org.github.io/iptv/languages/cmn.m3u
+毛利人	2	https://iptv-org.github.io/iptv/languages/mri.m3u
+马拉地语	3	https://iptv-org.github.io/iptv/languages/mar.m3u
+闽南中文	3	https://iptv-org.github.io/iptv/languages/nan.m3u
+现代希腊语（1453-）	42	https://iptv-org.github.io/iptv/languages/ell.m3u
+蒙	2	https://iptv-org.github.io/iptv/languages/mon.m3u
+黑山	1	https://iptv-org.github.io/iptv/languages/cnr.m3u
+尼泊尔语（宏语言）	1	https://iptv-org.github.io/iptv/languages/nep.m3u
+挪威博克马尔	4	https://iptv-org.github.io/iptv/languages/nob.m3u
+旁遮普语	6	https://iptv-org.github.io/iptv/languages/pan.m3u
+普什图语	8	https://iptv-org.github.io/iptv/languages/pus.m3u
+波斯语	170	https://iptv-org.github.io/iptv/languages/fas.m3u
+抛光	34	https://iptv-org.github.io/iptv/languages/pol.m3u
+葡萄牙语	98	https://iptv-org.github.io/iptv/languages/por.m3u
+罗马尼亚语	48	https://iptv-org.github.io/iptv/languages/ron.m3u
+俄语	283	https://iptv-org.github.io/iptv/languages/rus.m3u
+塞尔维亚	17	https://iptv-org.github.io/iptv/languages/srp.m3u
+僧伽罗语	4	https://iptv-org.github.io/iptv/languages/sin.m3u
+斯洛伐克语	20	https://iptv-org.github.io/iptv/languages/slk.m3u
+斯洛文尼亚语	6	https://iptv-org.github.io/iptv/languages/slv.m3u
+索马里	6	https://iptv-org.github.io/iptv/languages/som.m3u
+西班牙语	636	https://iptv-org.github.io/iptv/languages/spa.m3u
+巽他语	1	https://iptv-org.github.io/iptv/languages/sun.m3u
+瑞典	11	https://iptv-org.github.io/iptv/languages/swe.m3u
+他加禄语	5	https://iptv-org.github.io/iptv/languages/tgl.m3u
+泰米尔语	39	https://iptv-org.github.io/iptv/languages/tam.m3u
+泰卢固语	7	https://iptv-org.github.io/iptv/languages/tel.m3u
+泰国	47	https://iptv-org.github.io/iptv/languages/tha.m3u
+土耳其	66	https://iptv-org.github.io/iptv/languages/tur.m3u
+土库曼斯坦	10	https://iptv-org.github.io/iptv/languages/tuk.m3u
+乌克兰	63	https://iptv-org.github.io/iptv/languages/ukr.m3u
+乌尔都语	15	https://iptv-org.github.io/iptv/languages/urd.m3u
+乌兹别克语	0	https://iptv-org.github.io/iptv/languages/uzb.m3u
+越南语	69	https://iptv-org.github.io/iptv/languages/vie.m3u
+西弗里斯兰语	1	https://iptv-org.github.io/iptv/languages/fry.m3u
+粤语	7	https://iptv-org.github.io/iptv/languages/yue.m3u
+不明确的	2205	https://iptv-org.github.io/iptv/languages/undefined.m3u
+国家	频道	播放列表
+🇦🇫 阿富汗	23	https://iptv-org.github.io/iptv/countries/af.m3u
+🇦🇱 阿尔巴尼亚	32	https://iptv-org.github.io/iptv/countries/al.m3u
+🇩🇿 阿尔及利亚	52	https://iptv-org.github.io/iptv/countries/dz.m3u
+🇦🇸 美属萨摩亚	2	https://iptv-org.github.io/iptv/countries/as.m3u
+🇦🇩 安道尔	10	https://iptv-org.github.io/iptv/countries/ad.m3u
+🇦🇴 安哥拉	3	https://iptv-org.github.io/iptv/countries/ao.m3u
+🇦🇬 安提瓜和巴布达	0	https://iptv-org.github.io/iptv/countries/ag.m3u
+🇦🇷 阿根廷	71	https://iptv-org.github.io/iptv/countries/ar.m3u
+🇦🇲 亚美尼亚	32	https://iptv-org.github.io/iptv/countries/am.m3u
+🇦🇼 阿鲁巴岛	2	https://iptv-org.github.io/iptv/countries/aw.m3u
+🇦🇺 澳大利亚	82	https://iptv-org.github.io/iptv/countries/au.m3u
+🇦🇹 奥地利	36	https://iptv-org.github.io/iptv/countries/at.m3u
+🇦🇿 阿塞拜疆	20	https://iptv-org.github.io/iptv/countries/az.m3u
+🇧🇸 巴哈马	2	https://iptv-org.github.io/iptv/countries/bs.m3u
+🇧🇭 巴林	47	https://iptv-org.github.io/iptv/countries/bh.m3u
+🇧🇩 孟加拉国	11	https://iptv-org.github.io/iptv/countries/bd.m3u
+🇧🇧 巴巴多斯	1	https://iptv-org.github.io/iptv/countries/bb.m3u
+🇧🇾 白俄罗斯	19	https://iptv-org.github.io/iptv/countries/by.m3u
+🇧🇪 比利时	29	https://iptv-org.github.io/iptv/countries/be.m3u
+🇧🇯 贝宁	1	https://iptv-org.github.io/iptv/countries/bj.m3u
+🇧🇹 不丹	5	https://iptv-org.github.io/iptv/countries/bt.m3u
+🇧🇴 玻利维亚	28	https://iptv-org.github.io/iptv/countries/bo.m3u
+🇧🇦 波斯尼亚	15	https://iptv-org.github.io/iptv/countries/ba.m3u
+🇧🇼 博茨瓦纳	1	https://iptv-org.github.io/iptv/countries/bw.m3u
+🇧🇷 巴西	146	https://iptv-org.github.io/iptv/countries/br.m3u
+🇧🇳 文莱	3	https://iptv-org.github.io/iptv/countries/bn.m3u
+🇧🇬 保加利亚	18	https://iptv-org.github.io/iptv/countries/bg.m3u
+🇧🇫 布基纳法索	5	https://iptv-org.github.io/iptv/countries/bf.m3u
+🇧🇮 布隆迪	1	https://iptv-org.github.io/iptv/countries/bi.m3u
+🇰🇭 柬埔寨	10	https://iptv-org.github.io/iptv/countries/kh.m3u
+🇨🇲 喀麦隆	5	https://iptv-org.github.io/iptv/countries/cm.m3u
+🇨🇦 加拿大	152	https://iptv-org.github.io/iptv/countries/ca.m3u
+🇨🇻 佛得角	1	https://iptv-org.github.io/iptv/countries/cv.m3u
+🇨🇫 中非共和国	1	https://iptv-org.github.io/iptv/countries/cf.m3u
+🇹🇩 乍得	1	https://iptv-org.github.io/iptv/countries/td.m3u
+🇨🇱 智利	78	https://iptv-org.github.io/iptv/countries/cl.m3u
+🇨🇳 中国	699	https://iptv-org.github.io/iptv/countries/cn.m3u
+🇨🇴 哥伦比亚	58	https://iptv-org.github.io/iptv/countries/co.m3u
+🇰🇲 科摩罗	42	https://iptv-org.github.io/iptv/countries/km.m3u
+🇨🇬 刚果 - 布拉柴维尔	4	https://iptv-org.github.io/iptv/countries/cg.m3u
+🇨🇩 刚果 - 金沙萨	4	https://iptv-org.github.io/iptv/countries/cd.m3u
+🇨🇰 库克群岛	2	https://iptv-org.github.io/iptv/countries/ck.m3u
+🇨🇷 哥斯达黎加	48	https://iptv-org.github.io/iptv/countries/cr.m3u
+🇭🇷 克罗地亚	14	https://iptv-org.github.io/iptv/countries/hr.m3u
+🇨🇺 古巴	19	https://iptv-org.github.io/iptv/countries/cu.m3u
+🇨🇼 库拉索	5	https://iptv-org.github.io/iptv/countries/cw.m3u
+🇨🇾 塞浦路斯	23	https://iptv-org.github.io/iptv/countries/cy.m3u
+🇨🇿 捷克	38	https://iptv-org.github.io/iptv/countries/cz.m3u
+🇨🇮 科特迪瓦	2	https://iptv-org.github.io/iptv/countries/ci.m3u
+🇩🇰 丹麦	11	https://iptv-org.github.io/iptv/countries/dk.m3u
+🇩🇯 吉布提	44	https://iptv-org.github.io/iptv/countries/dj.m3u
+🇩🇴 多明尼加共和国	77	https://iptv-org.github.io/iptv/countries/do.m3u
+🇪🇨 厄瓜多尔	23	https://iptv-org.github.io/iptv/countries/ec.m3u
+🇪🇬 埃及	71	https://iptv-org.github.io/iptv/countries/eg.m3u
+🇸🇻 萨尔瓦多	32	https://iptv-org.github.io/iptv/countries/sv.m3u
+🇬🇶 赤道几内亚	4	https://iptv-org.github.io/iptv/countries/gq.m3u
+🇪🇷 厄立特里亚	1	https://iptv-org.github.io/iptv/countries/er.m3u
+🇪🇪 爱沙尼亚	13	https://iptv-org.github.io/iptv/countries/ee.m3u
+🇸🇿 埃斯瓦蒂尼	1	https://iptv-org.github.io/iptv/countries/sz.m3u
+🇪🇹 埃塞俄比亚	3	https://iptv-org.github.io/iptv/countries/et.m3u
+🇫🇴 法罗群岛	1	https://iptv-org.github.io/iptv/countries/fo.m3u
+🇫🇯 斐济	3	https://iptv-org.github.io/iptv/countries/fj.m3u
+🇫🇮 芬兰	10	https://iptv-org.github.io/iptv/countries/fi.m3u
+🇫🇷 法国	168	https://iptv-org.github.io/iptv/countries/fr.m3u
+🇬🇫 法属圭亚那	18	https://iptv-org.github.io/iptv/countries/gf.m3u
+🇵🇫 法属波利尼西亚	3	https://iptv-org.github.io/iptv/countries/pf.m3u
+🇹🇫 法属南部领地	1	https://iptv-org.github.io/iptv/countries/tf.m3u
+🇬🇦 加蓬	1	https://iptv-org.github.io/iptv/countries/ga.m3u
+🇬🇲 冈比亚	1	https://iptv-org.github.io/iptv/countries/gm.m3u
+🇬🇪 乔治亚州	14	https://iptv-org.github.io/iptv/countries/ge.m3u
+🇩🇪 德国	239	https://iptv-org.github.io/iptv/countries/de.m3u
+🇬🇭 加纳	3	https://iptv-org.github.io/iptv/countries/gh.m3u
+🇬🇷 希腊	109	https://iptv-org.github.io/iptv/countries/gr.m3u
+🇬🇵 瓜德罗普岛	19	https://iptv-org.github.io/iptv/countries/gp.m3u
+🇬🇺 关岛	2	https://iptv-org.github.io/iptv/countries/gu.m3u
+🇬🇹 危地马拉	23	https://iptv-org.github.io/iptv/countries/gt.m3u
+🇬🇳 几内亚	2	https://iptv-org.github.io/iptv/countries/gn.m3u
+🇬🇼 几内亚比绍	1	https://iptv-org.github.io/iptv/countries/gw.m3u
+🇭🇹 海地	21	https://iptv-org.github.io/iptv/countries/ht.m3u
+🇭🇳 洪都拉斯	28	https://iptv-org.github.io/iptv/countries/hn.m3u
+🇭🇰 香港	14	https://iptv-org.github.io/iptv/countries/hk.m3u
+🇭🇺 匈牙利	39	https://iptv-org.github.io/iptv/countries/hu.m3u
+🇮🇸 冰岛	7	https://iptv-org.github.io/iptv/countries/is.m3u
+🇮🇳 印度	327	https://iptv-org.github.io/iptv/countries/in.m3u
+🇮🇩 印度尼西亚	82	https://iptv-org.github.io/iptv/countries/id.m3u
+🌍 国际的	34	https://iptv-org.github.io/iptv/countries/int.m3u
+🇮🇷 伊朗	187	https://iptv-org.github.io/iptv/countries/ir.m3u
+🇮🇶 伊拉克	94	https://iptv-org.github.io/iptv/countries/iq.m3u
+🇮🇪 爱尔兰	22	https://iptv-org.github.io/iptv/countries/ie.m3u
+🇮🇱 以色列	21	https://iptv-org.github.io/iptv/countries/il.m3u
+🇮🇹 意大利	292	https://iptv-org.github.io/iptv/countries/it.m3u
+🇯🇲 牙买加	1	https://iptv-org.github.io/iptv/countries/jm.m3u
+🇯🇵 日本	32	https://iptv-org.github.io/iptv/countries/jp.m3u
+🇯🇴 约旦	53	https://iptv-org.github.io/iptv/countries/jo.m3u
+🇰🇿 哈萨克斯坦	26	https://iptv-org.github.io/iptv/countries/kz.m3u
+🇰🇪 肯尼亚	8	https://iptv-org.github.io/iptv/countries/ke.m3u
+🇰🇮 基里巴斯	2	https://iptv-org.github.io/iptv/countries/ki.m3u
+🇽🇰 科索沃	5	https://iptv-org.github.io/iptv/countries/xk.m3u
+🇰🇼 科威特	62	https://iptv-org.github.io/iptv/countries/kw.m3u
+🇰🇬 吉尔吉斯斯坦	4	https://iptv-org.github.io/iptv/countries/kg.m3u
+🇱🇦 老挝	5	https://iptv-org.github.io/iptv/countries/la.m3u
+🇱🇻 拉脱维亚	9	https://iptv-org.github.io/iptv/countries/lv.m3u
+🇱🇧 黎巴嫩	69	https://iptv-org.github.io/iptv/countries/lb.m3u
+🇱🇸 莱索托	1	https://iptv-org.github.io/iptv/countries/ls.m3u
+🇱🇷 利比里亚	1	https://iptv-org.github.io/iptv/countries/lr.m3u
+🇱🇾 利比亚	50	https://iptv-org.github.io/iptv/countries/ly.m3u
+🇱🇮 列支敦士登	7	https://iptv-org.github.io/iptv/countries/li.m3u
+🇱🇹 立陶宛	8	https://iptv-org.github.io/iptv/countries/lt.m3u
+🇱🇺 卢森堡	16	https://iptv-org.github.io/iptv/countries/lu.m3u
+🇲🇴 澳门	11	https://iptv-org.github.io/iptv/countries/mo.m3u
+🇲🇬 马达加斯加	1	https://iptv-org.github.io/iptv/countries/mg.m3u
+🇲🇼 马拉维	1	https://iptv-org.github.io/iptv/countries/mw.m3u
+🇲🇾 马来西亚	35	https://iptv-org.github.io/iptv/countries/my.m3u
+🇲🇻 马尔代夫	6	https://iptv-org.github.io/iptv/countries/mv.m3u
+🇲🇱 马里	1	https://iptv-org.github.io/iptv/countries/ml.m3u
+🇲🇹 马耳他	7	https://iptv-org.github.io/iptv/countries/mt.m3u
+🇲🇭 马绍尔群岛	2	https://iptv-org.github.io/iptv/countries/mh.m3u
+🇲🇶 马提尼克	18	https://iptv-org.github.io/iptv/countries/mq.m3u
+🇲🇷 毛里塔尼亚	42	https://iptv-org.github.io/iptv/countries/mr.m3u
+🇲🇺 毛里求斯	1	https://iptv-org.github.io/iptv/countries/mu.m3u
+🇾🇹 马约特岛	1	https://iptv-org.github.io/iptv/countries/yt.m3u
+🇲🇽 墨西哥	59	https://iptv-org.github.io/iptv/countries/mx.m3u
+🇫🇲 密克罗尼西亚	2	https://iptv-org.github.io/iptv/countries/fm.m3u
+🇲🇩 摩尔多瓦	18	https://iptv-org.github.io/iptv/countries/md.m3u
+🇲🇨 摩纳哥	7	https://iptv-org.github.io/iptv/countries/mc.m3u
+🇲🇳 蒙古	4	https://iptv-org.github.io/iptv/countries/mn.m3u
+🇲🇪 黑山	9	https://iptv-org.github.io/iptv/countries/me.m3u
+🇲🇦 摩洛哥	62	https://iptv-org.github.io/iptv/countries/ma.m3u
+🇲🇿 莫桑比克	7	https://iptv-org.github.io/iptv/countries/mz.m3u
+🇲🇲 缅甸	2	https://iptv-org.github.io/iptv/countries/mm.m3u
+🇳🇦 纳米比亚	1	https://iptv-org.github.io/iptv/countries/na.m3u
+🇳🇷 瑙鲁	2	https://iptv-org.github.io/iptv/countries/nr.m3u
+🇳🇵 尼泊尔	6	https://iptv-org.github.io/iptv/countries/np.m3u
+🇳🇱 荷兰	96	https://iptv-org.github.io/iptv/countries/nl.m3u
+🇳🇨 新喀里多尼亚	2	https://iptv-org.github.io/iptv/countries/nc.m3u
+🇳🇿 新西兰	20	https://iptv-org.github.io/iptv/countries/nz.m3u
+🇳🇮 尼加拉瓜	24	https://iptv-org.github.io/iptv/countries/ni.m3u
+🇳🇪 尼日尔	2	https://iptv-org.github.io/iptv/countries/ne.m3u
+🇳🇬 尼日利亚	7	https://iptv-org.github.io/iptv/countries/ng.m3u
+🇳🇺 纽埃	2	https://iptv-org.github.io/iptv/countries/nu.m3u
+🇳🇫 诺福克岛	2	https://iptv-org.github.io/iptv/countries/nf.m3u
+🇰🇵 北朝鲜	4	https://iptv-org.github.io/iptv/countries/kp.m3u
+🇲🇰 北马其顿	10	https://iptv-org.github.io/iptv/countries/mk.m3u
+🇲🇵 北马里亚纳群岛	2	https://iptv-org.github.io/iptv/countries/mp.m3u
+🇳🇴 挪威	17	https://iptv-org.github.io/iptv/countries/no.m3u
+🇴🇲 阿曼	49	https://iptv-org.github.io/iptv/countries/om.m3u
+🇵🇰 巴基斯坦	20	https://iptv-org.github.io/iptv/countries/pk.m3u
+🇵🇼 帕劳	2	https://iptv-org.github.io/iptv/countries/pw.m3u
+🇵🇸 巴勒斯坦	64	https://iptv-org.github.io/iptv/countries/ps.m3u
+🇵🇦 巴拿马	29	https://iptv-org.github.io/iptv/countries/pa.m3u
+🇵🇬 巴布亚新几内亚	2	https://iptv-org.github.io/iptv/countries/pg.m3u
+🇵🇾 巴拉圭	27	https://iptv-org.github.io/iptv/countries/py.m3u
+🇵🇪 秘鲁	137	https://iptv-org.github.io/iptv/countries/pe.m3u
+🇵🇭 菲律宾	14	https://iptv-org.github.io/iptv/countries/ph.m3u
+🇵🇳 皮特凯恩群岛	2	https://iptv-org.github.io/iptv/countries/pn.m3u
+🇵🇱 波兰	44	https://iptv-org.github.io/iptv/countries/pl.m3u
+🇵🇹 葡萄牙	43	https://iptv-org.github.io/iptv/countries/pt.m3u
+🇵🇷 波多黎各	28	https://iptv-org.github.io/iptv/countries/pr.m3u
+🇶🇦 卡塔尔	49	https://iptv-org.github.io/iptv/countries/qa.m3u
+🇷🇴 罗马尼亚	62	https://iptv-org.github.io/iptv/countries/ro.m3u
+🇷🇺 俄罗斯	352	https://iptv-org.github.io/iptv/countries/ru.m3u
+🇷🇼 卢旺达	5	https://iptv-org.github.io/iptv/countries/rw.m3u
+🇷🇪 团圆	1	https://iptv-org.github.io/iptv/countries/re.m3u
+🇼🇸 萨摩亚	2	https://iptv-org.github.io/iptv/countries/ws.m3u
+🇸🇲 圣马力诺	6	https://iptv-org.github.io/iptv/countries/sm.m3u
+🇸🇦 沙特阿拉伯	89	https://iptv-org.github.io/iptv/countries/sa.m3u
+🇸🇳 塞内加尔	5	https://iptv-org.github.io/iptv/countries/sn.m3u
+🇷🇸 塞尔维亚	29	https://iptv-org.github.io/iptv/countries/rs.m3u
+🇸🇨 塞舌尔	1	https://iptv-org.github.io/iptv/countries/sc.m3u
+🇸🇱 塞拉利昂	2	https://iptv-org.github.io/iptv/countries/sl.m3u
+🇸🇬 新加坡	9	https://iptv-org.github.io/iptv/countries/sg.m3u
+🇸🇰 斯洛伐克	34	https://iptv-org.github.io/iptv/countries/sk.m3u
+🇸🇮 斯洛文尼亚	15	https://iptv-org.github.io/iptv/countries/si.m3u
+🇸🇧 所罗门群岛	2	https://iptv-org.github.io/iptv/countries/sb.m3u
+🇸🇴 索马里	48	https://iptv-org.github.io/iptv/countries/so.m3u
+🇿🇦 南非	1	https://iptv-org.github.io/iptv/countries/za.m3u
+🇰🇷 韩国	66	https://iptv-org.github.io/iptv/countries/kr.m3u
+🇸🇸 南苏丹	1	https://iptv-org.github.io/iptv/countries/ss.m3u
+🇪🇸 西班牙	313	https://iptv-org.github.io/iptv/countries/es.m3u
+🇱🇰 斯里兰卡	14	https://iptv-org.github.io/iptv/countries/lk.m3u
+🇧🇱 圣巴泰勒米	18	https://iptv-org.github.io/iptv/countries/bl.m3u
+🇸🇭 圣赫勒拿	1	https://iptv-org.github.io/iptv/countries/sh.m3u
+🇲🇫 圣马丁	18	https://iptv-org.github.io/iptv/countries/mf.m3u
+🇸🇩 苏丹	47	https://iptv-org.github.io/iptv/countries/sd.m3u
+🇸🇪 瑞典	23	https://iptv-org.github.io/iptv/countries/se.m3u
+🇨🇭 瑞士	113	https://iptv-org.github.io/iptv/countries/ch.m3u
+🇸🇾 叙利亚	66	https://iptv-org.github.io/iptv/countries/sy.m3u
+🇸🇹 圣多美和普林西比	1	https://iptv-org.github.io/iptv/countries/st.m3u
+🇹🇼 台湾	74	https://iptv-org.github.io/iptv/countries/tw.m3u
+🇹🇯 塔吉克斯坦	2	https://iptv-org.github.io/iptv/countries/tj.m3u
+🇹🇿 坦桑尼亚	5	https://iptv-org.github.io/iptv/countries/tz.m3u
+🇹🇭 泰国	59	https://iptv-org.github.io/iptv/countries/th.m3u
+🇹🇱 东帝汶	2	https://iptv-org.github.io/iptv/countries/tl.m3u
+🇹🇬 多哥	1	https://iptv-org.github.io/iptv/countries/tg.m3u
+🇹🇰 托克劳	3	https://iptv-org.github.io/iptv/countries/tk.m3u
+🇹🇴 汤加	2	https://iptv-org.github.io/iptv/countries/to.m3u
+🇹🇹 特立尼达和多巴哥	0	https://iptv-org.github.io/iptv/countries/tt.m3u
+🇹🇳 突尼斯	51	https://iptv-org.github.io/iptv/countries/tn.m3u
+🇹🇷 火鸡	191	https://iptv-org.github.io/iptv/countries/tr.m3u
+🇹🇲 土库曼斯坦	18	https://iptv-org.github.io/iptv/countries/tm.m3u
+🇹🇻 图瓦卢	2	https://iptv-org.github.io/iptv/countries/tv.m3u
+🇻🇮 美属维尔京群岛	1	https://iptv-org.github.io/iptv/countries/vi.m3u
+🇺🇬 乌干达	4	https://iptv-org.github.io/iptv/countries/ug.m3u
+🇺🇦 乌克兰	108	https://iptv-org.github.io/iptv/countries/ua.m3u
+🇦🇪 阿拉伯联合酋长国	81	https://iptv-org.github.io/iptv/countries/ae.m3u
+🇬🇧 英国	184	https://iptv-org.github.io/iptv/countries/uk.m3u
+🇺🇸 美国	2129	https://iptv-org.github.io/iptv/countries/us.m3u
+🇺🇾 乌拉圭	21	https://iptv-org.github.io/iptv/countries/uy.m3u
+🇺🇿 乌兹别克斯坦	2	https://iptv-org.github.io/iptv/countries/uz.m3u
+🇻🇺 瓦努阿图	2	https://iptv-org.github.io/iptv/countries/vu.m3u
+🇻🇦 梵蒂冈城	5	https://iptv-org.github.io/iptv/countries/va.m3u
+🇻🇪 委内瑞拉	34	https://iptv-org.github.io/iptv/countries/ve.m3u
+🇻🇳 越南	69	https://iptv-org.github.io/iptv/countries/vn.m3u
+🇼🇫 瓦利斯和富图纳群岛	2	https://iptv-org.github.io/iptv/countries/wf.m3u
+🇪🇭 西撒哈拉	3	https://iptv-org.github.io/iptv/countries/eh.m3u
+🇾🇪 也门	53	https://iptv-org.github.io/iptv/countries/ye.m3u
+🇿🇲 赞比亚	2	https://iptv-org.github.io/iptv/countries/zm.m3u
+🇿🇼 津巴布韦	1	https://iptv-org.github.io/iptv/countries/zw.m3u
+不明确的	337	https://iptv-org.github.io/iptv/countries/undefined.m3u
