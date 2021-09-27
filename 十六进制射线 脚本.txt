@@ -1,0 +1,6 @@
+cyberchef
+https://tryhackme.com/     [咒语]
+hex-rays.com    十六进制射线
+http://www.ollydbg.de/
+https://www.cheatengine.org/downloads.php      作弊引擎
+https://x64dbg.com/#start
