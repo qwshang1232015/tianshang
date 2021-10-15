@@ -3,3 +3,4 @@ http://programarcadegames.com/
 https://pythonrepo.com/catalog/python-deep-learning_newest_1
 https://polymars.itch.io/flappuccino
 https://github.com/PolyMarsDev/Flappuccino?ref=pythonrepo.com
+https://programmer.help/blogs/2d-game-development-sy2.python-pygame.html
