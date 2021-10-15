@@ -13,3 +13,5 @@ https://pip.pypa.io/en/stable/getting-started/
 https://pypi.org/project/py/
 https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/cmd
 https://www.geeksforgeeks.org/how-to-install-pip-on-windows/
+
+https://pythonguides.com/python-pygame-tutorial/
