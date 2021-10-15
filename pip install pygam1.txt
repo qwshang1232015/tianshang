@@ -7,3 +7,4 @@ https://programmer.help/blogs/2d-game-development-sy2.python-pygame.html
 https://www.askpython.com/
 https://www.educba.com/python-pygame/
 https://pythonprogramming.altervista.org/free-apps/
+https://ryanstutorials.net/pygame-tutorial/pygame-basics.php
