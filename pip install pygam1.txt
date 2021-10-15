@@ -11,3 +11,11 @@ https://ryanstutorials.net/pygame-tutorial/pygame-basics.php
 https://www.stem.org.uk/search?search_query=%E6%B8%B8%E6%88%8F
 https://www.youngwonks.com/
 https://www.petercollingridge.co.uk/tutorials/pygame-physics-simulation/creating-pygame-window/
+https://www.activestate.com/blog/how-to-use-pygame-for-game-development/
+https://www.raywenderlich.com/2614-multiplayer-game-programming-for-teens-with-python-part-1#toc-anchor-001
+https://docs.w3cub.com/pygame/ref/draw
+https://www.tensorflow.org/install?hl=zh_cn
+https://pythonawesome.com/
+https://www.cnblogs.com/xiaoqshuo/p/9549352.html
+http://code.py40.com/pythongame/25.html
+https://www.w3schools.com/python/python_for_loops.asp
