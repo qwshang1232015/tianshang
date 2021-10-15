@@ -5,3 +5,4 @@ https://polymars.itch.io/flappuccino
 https://github.com/PolyMarsDev/Flappuccino?ref=pythonrepo.com
 https://programmer.help/blogs/2d-game-development-sy2.python-pygame.html
 https://www.askpython.com/
+https://www.educba.com/python-pygame/
