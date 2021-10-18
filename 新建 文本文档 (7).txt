@@ -1,39 +1,11 @@
-import pygame
-from pygame.locals import *
-现在我们可以初始化Pygme了:
-pygame.init()
-screen = pygame.display.set_mode((600,500))
-myfont = pygame.font.Font(None,60)
-white = 255,255,255
-blue = 0,0,255
-textImage = myfont.render("Hello Pygame", True, white)
-screen.fill(blue)
-screen.blit(textImage. (100,100))
-pygame.display.update()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-while True:
-    for event in pygame.event.get():
-        if event.type in (QUIT, KEYDOWN):
-            sys.exit()
+信用卡：
+6217996613255004|11|2025|386
+6217996613255004|02|2025|172
+6217996613255004|10|2026|864
+6217996613255004|02|2024|684
+6217996613255004|04|2025|256
+6217996613255004|02|2025|370
+6217996613255004|03|2024|317
+6217996613255004|03|2024|578
+6217996613255004|09|2024|478
+6217996613255004|10|2025|504
