@@ -19,3 +19,4 @@ https://pythonawesome.com/
 https://www.cnblogs.com/xiaoqshuo/p/9549352.html
 http://code.py40.com/pythongame/25.html
 https://www.w3schools.com/python/python_for_loops.asp
+https://www.edureka.co/blog/snake-game-with-pygame/
