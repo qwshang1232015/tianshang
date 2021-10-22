@@ -21,3 +21,5 @@ http://code.py40.com/pythongame/25.html
 https://www.w3schools.com/python/python_for_loops.asp
 https://www.edureka.co/blog/snake-game-with-pygame/
 https://artofproblemsolving.com/wiki/index.php/Getting_Started_With_Pygame
+https://jmeter.apache.org/usermanual/component_reference.html#View_Results_Tree
+https://www.codegrepper.com/code-examples/python/unindent+does+not+match+any+outer+indentation+level
