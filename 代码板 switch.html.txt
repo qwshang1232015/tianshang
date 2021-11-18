@@ -22,3 +22,8 @@ https://ant.design/index-cn
 https://antv.vision/zh
 https://primer.style/
 https://spectrum.adobe.com/
+https://draftium.com/
+https://spiritapp.io/
+https://webdesigner.withgoogle.com/
+https://zurb.com/
+https://auth.wetransfer.com/login?state=hKFo2SA5cHlUeng0NHhWR1hCb3Y4cXNDX0hzUnhzLURYOWNGbaFupWxvZ2luo3RpZNkgTGVCMWZIT1FxVUJSdHBRRm1HNjc5bENSdEZYTEFtMWyjY2lk2SBnMmNWbUZEdlFMNkE2SzM5MFRNNVhoYVh0YTlaOEtRZQ&client=g2cVmFDvQL6A6K390TM5XhaXta9Z8KQe&protocol=oauth2&audience=aud%3A%2F%2Fpaste-api-prod.wetransfer%2F&redirect_uri=https%3A%2F%2Fpasteapp.com%2Fauth%2Fcallback&scope=openid%20profile%20email%20offline_access&response_type=code&response_mode=query&nonce=d0M5aHFqWEdyVDVtUkk2OWl%2BN2N6dmNWRWhlc0FHOFRxfi4uN1RNOVZ6bQ%3D%3D&code_challenge=XelCrNm76ap1-_1ZFOWMR3kC4pxc5vog99MHVyhhkBQ&code_challenge_method=S256&auth0Client=eyJuYW1lIjoiYXV0aDAtc3BhLWpzIiwidmVyc2lvbiI6IjEuMTUuMCJ9
